@@ -1,0 +1,9 @@
+.col-sm-4 {
+    margin-top: 40px;
+}
+.example-card {
+    cursor: pointer;
+}
+.example-card:hover {
+    transform: scale(1.1); 
+}

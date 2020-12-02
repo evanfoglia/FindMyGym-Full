@@ -1,0 +1,30 @@
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-4" *ngFor="let gym of gyms">
+            <mat-card (click)="onClick(gym)" class="example-card">
+                <mat-card-header>
+                    <div mat-card-avatar class="example-header-image"></div>
+                    <mat-card-title>{{gym.name}}</mat-card-title>
+                </mat-card-header>
+                <img mat-card-image src="{{ gym.picture }}"
+                    height="150px" width="150px">
+                <mat-card-content>
+                    <p>
+                        {{ gym.description }}
+                    </p>
+                </mat-card-content>
+            </mat-card>
+        </div>
+    </div>
+</div>
+
+
+
+
