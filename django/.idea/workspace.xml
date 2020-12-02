@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e3a34a9-2239-40bc-b82d-d9cb4b7426ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1kc4lb36dMlCqkyXG4d986Z8x4e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e3a34a9-2239-40bc-b82d-d9cb4b7426ed" name="Default Changelist" comment="" />
+      <created>1605986698813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605986698813</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="410" y="380" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606608933687">
+      <screen x="35" y="23" width="1757" height="1097" />
+    </state>
+    <state x="410" y="380" key="#com.intellij.fileTypes.FileTypeChooser/35.23.1757.1097@35.23.1757.1097" timestamp="1606608933687" />
+    <state x="412" y="380" key="#com.intellij.fileTypes.FileTypeChooser/37.23.1755.1097@37.23.1755.1097" timestamp="1606006305816" />
+  </component>
+</project>
